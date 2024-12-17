@@ -22,7 +22,7 @@ This repository contains the following resources:
 - **Free Sample Chapter :**  
   Explore the first chapter of the book, *Getting Started with Rust*, and see how it can help you dive into Rust’s world of safety and performance.
 
-- **Code Examples :**  
+- **Code Examples (Coming Soon) :**  
   Downloadable and runnable code samples to practice alongside the book’s lessons.
 
 ---
